@@ -1,5 +1,5 @@
-final-project_Delphi_PlaneGame
-多媒體期末專題
+final-project_Delphi_PlaneGame/n
+多媒體期末專題/n
 Biubiubiu
 * 遊戲說明：
   * 每次只能發射一顆子彈，系統會隨機發射一顆子彈
